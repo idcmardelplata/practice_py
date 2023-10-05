@@ -14,5 +14,5 @@ while condition < 100:
 
 my_condition = 15
 
-#print(35 // 3)
-#print(type(35 // 3))
+print(35 // 3)
+print(type(35 // 3))
