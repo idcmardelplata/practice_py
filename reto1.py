@@ -1,5 +1,6 @@
 condition = 0
 
+# Love this :)
 while condition < 100:
     condition += 1
     if condition % 3 == 0 and condition % 5 == 0:
@@ -11,6 +12,7 @@ while condition < 100:
     else:
         print(condition)
     print(" ")
+
 
 my_condition = 15
 
