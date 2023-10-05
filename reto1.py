@@ -1,5 +1,6 @@
 condition = 0
 
+# Ame esto :)
 while condition < 100:
     condition += 1
     if condition % 3 == 0 and condition % 5 == 0:
